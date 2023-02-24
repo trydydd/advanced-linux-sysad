@@ -57,3 +57,5 @@ Linux provides several tools for analyzing system logs, including `grep`, `sed`,
 ## Conclusion
 
 In this section, we covered several tools and techniques for monitoring system performance and identifying and resolving performance issues. By mastering these tools and techniques, you will be able to ensure that your system is running smoothly and efficiently, and quickly identify and resolve performance issues as they arise.
+
+[Back to Table of Contents](../README.md)

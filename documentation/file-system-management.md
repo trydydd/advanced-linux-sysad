@@ -94,3 +94,5 @@ The `grep` command is used to search for text within files. It provides several 
 ## Conclusion
 
 In this section, we covered several tools and techniques for managing the file system on a Linux system. By mastering these tools and techniques, you will be able to navigate the file system, manage file and directory permissions, identify different types of files and directories, and use powerful tools like ls, find, and grep to manage the file system efficiently.
+
+[Back to Table of Contents](../README.md)

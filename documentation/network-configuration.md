@@ -53,3 +53,5 @@ The `netstat` command is used to display network statistics and connections. It 
 ## Conclusion
 
 In this section, we covered several tools and techniques for configuring and troubleshooting network settings on a Linux system. By mastering these tools and techniques, you will be able to configure network settings efficiently and troubleshoot network issues quickly and effectively.
+
+[Back to Table of Contents](../README.md)

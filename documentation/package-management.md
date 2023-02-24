@@ -49,3 +49,5 @@ The `zypper` tool is used to install, remove, and manage packages on a SUSE Linu
 ## Conclusion
 
 In this section, we covered several package management tools and techniques that will help you manage software packages on a Linux system. By mastering these tools and techniques, you will be able to install, remove, and manage packages efficiently and keep your system up-to-date with the latest software.
+
+[Back to Table of Contents](../README.md)

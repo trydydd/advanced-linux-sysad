@@ -65,3 +65,5 @@ Keeping a Linux system up-to-date is an essential part of maintaining system sec
 ## Conclusion
 
 In this section, we covered several tools and techniques for securing a Linux system, including user and group management, file and directory permissions, network security, and system updates. By mastering these tools and techniques, you will be able to secure your Linux system and keep it up-to-date with the latest security patches and updates.
+
+[Back to Table of Contents](../README.md)

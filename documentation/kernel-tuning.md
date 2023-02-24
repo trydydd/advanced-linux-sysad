@@ -58,3 +58,5 @@ sysctl -w vm.swappiness=10
 ## Conclusion
 
 In this section, we covered several tools and techniques for kernel tuning, including the `sysctl` command, kernel parameters, and performance tuning. By mastering these tools and techniques, you will be able to optimize your Linux system for performance and resource usage, and improve the overall efficiency and effectiveness of your system.
+
+[Back to Table of Contents](../README.md)

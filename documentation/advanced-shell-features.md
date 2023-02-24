@@ -258,3 +258,5 @@ Debugging is the process of finding and fixing errors in a shell script. Common 
 ## Conclusion
 
 In this section, we covered several advanced shell features that will help you become a more proficient Linux user. By mastering these features, you will be able to automate repetitive tasks, perform complex operations, and customize your shell environment.
+
+[Back to Table of Contents](../README.md)
