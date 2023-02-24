@@ -8,14 +8,14 @@ Whether you are new to Linux system administration or have years of experience, 
 
 # Table of Contents
 
-- [Advanced Shell Features](advanced-shell-features.md)
-- [File System Management](file-system-management.md)
-- [Package Management](package-management.md)
-- [System Monitoring and Performance](system-monitoring-and-performance.md)
-- [Kernel Tuning](kernel-tuning.md)
-- [Network Configuration](network-configuration.md)
-- [Security](security.md)
-- [Process Management](process-management.md)
+- [Advanced Shell Features](documentation/advanced-shell-features.md)
+- [File System Management](documentation/file-system-management.md)
+- [Package Management](documentation/package-management.md)
+- [System Monitoring and Performance](documentation/system-monitoring-and-performance.md)
+- [Kernel Tuning](documentation/kernel-tuning.md)
+- [Network Configuration](documentation/network-configuration.md)
+- [Security](documentation/security.md)
+- [Process Management](documentation/process-management.md)
 
 # Conclusion
 
