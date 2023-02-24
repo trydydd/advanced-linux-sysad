@@ -16,4 +16,9 @@ Whether you are new to Linux system administration or have years of experience, 
 - [Network Configuration](network-configuration.md)
 - [Security](security.md)
 - [Process Management](process-management.md)
-- [Conclusion](conclusion.md)
+
+# Conclusion
+
+By mastering the tools and techniques covered in this guide, you will be able to efficiently manage and maintain a Linux system, troubleshoot common issues, and secure your system against potential threats.
+
+This guide should be considered a starting point and a quick reference guide -- not as the end of the road. The world of Linux administration is vast and you should strive to be a life long learner. Good luck out there!
